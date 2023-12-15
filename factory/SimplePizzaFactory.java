@@ -6,6 +6,8 @@ public class SimplePizzaFactory {
 
         if (type.equals("cheese")) {
             pizza = new CheesePizza();
+        } else if (type.equals("pepperoni")) {
+            pizza = new PepperoniPizza();
         }
 
         return pizza;
