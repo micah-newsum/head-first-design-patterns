@@ -1,4 +1,4 @@
-package chapter3.decorator;
+package decorator;
 
 import java.io.FilterInputStream;
 import java.io.IOException;

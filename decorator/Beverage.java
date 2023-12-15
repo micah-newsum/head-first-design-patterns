@@ -1,4 +1,4 @@
-package chapter3.decorator;
+package decorator;
 
 public abstract class Beverage {
     String description = "Unknown Beverage";
