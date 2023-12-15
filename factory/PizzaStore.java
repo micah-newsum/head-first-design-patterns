@@ -2,6 +2,10 @@ package factory;
 
 import factory.pizzas.Pizza;
 
+/**
+ * You want all the franchise pizza stores to leverage your PizzaStore code, so the
+ * pizzas are prepared in the same way.
+ */
 public abstract class PizzaStore {
     public PizzaStore() {
 
